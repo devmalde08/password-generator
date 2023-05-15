@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: #1c1c1c;
+    font-family: 'Karla', sans-serif;
+}
+
+.container {
+    background: #1F2937;
+    margin: 40px;
+    padding: 20px 30px;
+}
+
+h1 {
+    color: white;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 17px;
+    letter-spacing: -0.025em;
+}
+
+.green {
+    color: #4ADF86;
+}
+
+h4 {
+    color: white;
+    font-weight: 300;
+}
+
+hr {
+    width: 90%;
+    height: 0px;
+    margin: 30px;
+    border: 1px solid #2F3E53;
+}
+
+button {
+    width: 191px;
+    height: 42px;
+    border: none;
+    color: white;
+    background: #10B981;
+    border-radius: 10px;
+    font-weight: 50;
+}
+
+.passwords {
+    display: flex;
+}
+
+p {
+    margin: 20px 50px;
+    color: #55F991;
+    background-color: #273549;
+    padding: 8px 30px;
+    border-radius: 5px;
+}
